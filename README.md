@@ -8,6 +8,7 @@ winget install ffmpeg
 ffmpeg -version
 
 pip install python-telegram-bot yt-dlp openai-whisper ffmpeg-python    
+pip install "urllib3<2"
 
 $env:TELEGRAM_BOT_TOKEN="your tokem" 
 
