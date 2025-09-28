@@ -1,6 +1,6 @@
 # Telegram Shorts Bot 🎬🤖
 
-This bot automates turning YouTube (or uploaded) videos into **9:16 portrait shorts** of ≤50 seconds each, with **burned-in captions** from Whisper.
+This bot automates turning YouTube (or uploaded) videos into **9:16 portrait shorts** of ≤50 seconds each, and send back the Clips after Generated.
 
 ---
 
