@@ -1,0 +1,8 @@
+# Telegram bot
+python-telegram-bot==13.15
+
+# Video downloading
+yt-dlp>=2023.12.22
+
+# Whisper for transcription (pulls in torch automatically)
+openai-whisper==20231117

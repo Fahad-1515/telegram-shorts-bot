@@ -1,0 +1,9 @@
+services:
+  telegram-shorts-bot:
+    build: .
+    container_name: telegram_shorts_bot
+    restart: unless-stopped
+    env_file:
+      - .env # The bot token should be in this file
+    volumes:
+      - ./work:/app/work
