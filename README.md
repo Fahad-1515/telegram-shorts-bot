@@ -11,8 +11,6 @@ This bot automates turning YouTube (or uploaded) videos into **9:16 portrait sho
 - Download videos via **yt-dlp** or accept direct uploads.
 - Convert videos to **9:16 portrait** (for TikTok, Reels, Shorts).
 - Split into clips ≤50 seconds.
-- Transcribe speech → generate subtitles via **OpenAI Whisper**.
-- Burn captions into the video.
 - Return clips directly in Telegram.
 
 ---
